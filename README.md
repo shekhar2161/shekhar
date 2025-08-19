@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chandrashekhar!- 💻 I’m passionate about Full Stack Development - 🌱 Currently learning: Front-End using Java, MongoDB, and GitHub Actions- 💡 Fun Fact: I once debugged a 50-line error just by adding a semicolon 😂
+# 👋 Hi there, I'm Chandrashekhar!- 💻 I’m passionate about Full Stack Development - 🌱 Currently learning: Full Stack using Java, MongoDB, and GitHub Actions- 💡 Fun Fact: I once debugged a 50-line error just by adding a semicolon 😂
 ## 🛠️ Skills & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
